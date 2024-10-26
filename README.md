@@ -1,2 +1,14 @@
 # WinFileManager
-WinFileManager is a script that runs in the terminal and automatically moves files to the correct folders.
+WinFileManager is a simple terminal-based script to help organize files by automatically moving them to the correct folders. This script makes it easy to keep your files organized with minimal effort.
+
+Requirements
+Python: (Python 3.x is recommended).
+colorama: pip install colorama (package is used for color-coded terminal output).
+
+Customization
+To set your own rules for file destinations, open winfilemanager.py with visual studio code and modify the paths or file types as needed.
+
+Example
+If you have files like document.pdf, photo.jpg, or song.mp3, the script will move them to folders such as /Documents, /Pictures, and /Music, depending on your configuration.
+
+![Voorbeeld](Voorbeeld.png)
