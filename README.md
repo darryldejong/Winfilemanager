@@ -10,4 +10,4 @@ WinFileManager is a terminal-based script to help organize files by automaticall
 ## Customization
 To set your own rules for file destinations, open winfilemanager.py with visual studio code and modify the paths or file types as needed.
 
-![Voorbeeld](Voorbeeld.png)
+![Voorbeeld](/images/image.png)
